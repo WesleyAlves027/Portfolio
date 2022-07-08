@@ -79,9 +79,10 @@ p{
     width: 25px;
 }
 .apresentacao__img___perfil{
-    width: 255px;
+
     border-radius: 50%;
     flex-grow: 1;
+    flex-shrink: 1;
 }
 .container__sobreMim{
     display: flex;

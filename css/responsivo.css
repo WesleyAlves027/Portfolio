@@ -24,7 +24,8 @@
         padding-top: 10px;
      }
     .apresentacao__img___perfil{
-        width:180px ;
+        width: 145px;
+        height: 145px;
     }
     .apresentacao__texto{
         width: 100%;
@@ -108,6 +109,11 @@
     }
     .apresentacao__link__network___item:hover{
         transform: scale(1.2) translateY(-6px);
+    }
+    .apresentacao__img___perfil{
+        min-width: 190px;
+        max-width: 190PX;
+        height: 200px;
     }
     p{
         font-size: 25px;
